@@ -8,7 +8,7 @@ However, in order to 'elevate' our project, we decided to apply a lot of things 
 - K-Nearest Neighbor
 - Linear Regression
 - Logistic Regression
-- Neureal Networks
+- Neural Networks
 - Regularization
 - Naive Bayes
 - Gaussian Distrimanant Analysis
