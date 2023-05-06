@@ -24,5 +24,5 @@ Credit to this article for inspiration: https://www.kaggle.com/code/darkcore/bas
 
 Note for TA's: For this project, we felt that a flag for train=false is not suitable, since our models are not pre-trained, they do not take that long to train, and it improves the user experience since they can train it themselves with little time! 
 ## Conclusion:
-In the end, we determined that individually, a Support Vector Machine works best for such a classification task. Furthermore, while a combination of all the models does not seem to have a huge difference directly analyzing sentiment, it has a much higher accuracy when determining the rise and fall of stock prices. Using a combination, we managed to obtain an accuracy of 98.64%.
+In the end, we determined that individually, a Support Vector Machine works best for such a classification task. Furthermore, while a combination of all the models does not seem to have a huge difference for directly analyzing sentiment, it has a much higher accuracy when determining the rise and fall of stock prices. Using a combination of models, we managed to obtain an accuracy of 98.64%.
 
