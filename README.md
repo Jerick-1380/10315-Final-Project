@@ -20,6 +20,8 @@ Within the scale of this project, our goal is to determine which model would be 
 
 In the grand scheme of things, our goal is that for future students who might take the course, they could see how the basic theory learned in class can be directly used in projects like these in real life.
 
+
+Note for TA's: For this project, we felt that a flag for train=false is not suitable, since our models are not pre-trained, they do not take that long to train, and it improves the user experience since they can train it themselves with little time! 
 ## Conclusion:
 In the end, we determined that individually, a Support Vector Machine works best for such a classification task. Furthermore, while a combination of all the models does not seem to have a huge difference directly analyzing sentiment, it has a much higher accuracy when determining the rise and fall of stock prices. Using a combination, we managed to obtain an accuracy of 98.64%.
 
