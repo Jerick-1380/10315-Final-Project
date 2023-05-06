@@ -1,4 +1,4 @@
-# 10315-Final-Project
+# Sentiment Analysis using Techniques in 10-315 and Applications in Stock Prices
 
 ## Introduction:
 For this final project, our team decided to create an machine model for sentiment analysis, which basically reads some sentence and determines whether it consists of a positive or a negative tone. The dataset we will be using is called [Stock-Market Sentiment Dataset](https://www.kaggle.com/datasets/yash612/stockmarket-sentiment-dataset), which consists of 2 columns, the text and whether it's positive or negative. Since these are taken from stock market news, we are also able to apply our model to other news websites and predict their sentiment. Using this, we shall also analyze whether there is a strong correlation between the sentiment of the news as well as the change in price of a tock.
